@@ -1,0 +1,15 @@
+**/*.js
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.gif
+**/*.mp4
+**/*.svg
+**/*.eot
+**/*.ttf
+**/*.woff
+**/*.css
+
+node_modules
+build
+src/assets
