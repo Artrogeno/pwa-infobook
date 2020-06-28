@@ -1,6 +1,6 @@
 <p align="center">
   <a href="readme/">
-    <img src="https://github.com/Artrogeno/pwa-infobook/blob/master/src/images/logo.svg" width=120 height=120 alt="PWA InfoBook" />
+    <img src="https://github.com/Artrogeno/pwa-infobook/blob/master/src/assets/images/logo.svg" width=120 height=120 alt="PWA InfoBook" />
   </a>
 </p>
 
