@@ -7,6 +7,11 @@ export default createGlobalStyle`
     box-sizing: border-box;
   }
 
+  :root {
+    --font-roboto: 'Roboto', sans-serif;
+    --font-raleway: 'Raleway', sans-serif;
+  }
+
   ::-webkit-scrollbar {
     width: 0.8rem;
     position: fixed;
@@ -35,7 +40,8 @@ export default createGlobalStyle`
 
 
   body {
-    font-size: 1.6rem;
+    font-size: 1.2rem;
+    font-family: var(--font-roboto);
     transition: background .6s ease-in-out;
     &.no-scroll {
       overflow: hidden;
