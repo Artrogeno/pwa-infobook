@@ -1,0 +1,83 @@
+{
+  "books": [
+    {
+      "id": "9781586174897",
+      "kind": "books#volumes",
+      "totalItems": 1,
+      "items": [
+        {
+          "kind": "books#volume",
+          "id": "N6XyjWdJCiwC",
+          "etag": "AaKA4kv+02E",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/N6XyjWdJCiwC",
+          "volumeInfo": {
+            "title": "In Defense of Sanity",
+            "subtitle": "The Best Essays of G.K. Chesterton",
+            "authors": ["Gilbert Keith Chesterton"],
+            "publisher": "Ignatius Press",
+            "publishedDate": "2011",
+            "description": "G.K. Chesterton was a master essayist. But reading his essays is not just an exercise in studying a literary form at its finest, it is an encounter with timeless truths that jump off the page as fresh and powerful as the day they were written. Three of the world's leading authorities on Chesterton have joined together to select the \"best\" Chesterton essays to compile this volume.",
+            "industryIdentifiers": [
+              {
+                "type": "ISBN_13",
+                "identifier": "9781586174897"
+              },
+              {
+                "type": "ISBN_10",
+                "identifier": "1586174894"
+              }
+            ],
+            "readingModes": {
+              "text": true,
+              "image": false
+            },
+            "pageCount": 387,
+            "printType": "BOOK",
+            "categories": ["Literary Collections"],
+            "averageRating": 5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.0.0.preview.2",
+            "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+            },
+            "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=N6XyjWdJCiwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=N6XyjWdJCiwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.br/books?id=N6XyjWdJCiwC&dq=isbn:1586174894&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com.br/books?id=N6XyjWdJCiwC&dq=isbn:1586174894&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/In_Defense_of_Sanity.html?hl=&id=N6XyjWdJCiwC"
+          },
+          "saleInfo": {
+            "country": "BR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+          },
+          "accessInfo": {
+            "country": "BR",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+              "isAvailable": true
+            },
+            "pdf": {
+              "isAvailable": true
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=N6XyjWdJCiwC&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+            "textSnippet": "Three of the world&#39;s leading authorities on Chesterton have joined together to select the &quot;best&quot; Chesterton essays to compile this volume."
+          }
+        }
+      ]
+    }
+  ]
+}
