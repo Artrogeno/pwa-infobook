@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  PWA in ReactJs/Typescript for Scanner and Book Query 📘🔍
+  PWA with ReactJs/Typescript for barcode scanner and book search 📘🔍
 </h3>
 
 <br>
