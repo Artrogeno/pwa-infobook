@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import { toast } from 'react-toastify'
 
 import Scanner from './components/Scanner'
 import Widget from './components/Widget'
@@ -10,7 +11,9 @@ const Main = () => {
 
   useEffect(() => {
     if (scanError) {
-      console.log(scanError)
+      toast.error(`Error: ${scanError}`, {
+        position: 'top-right',
+      })
     }
   }, [scanError])
 
