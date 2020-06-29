@@ -1,3 +1,4 @@
 import useStore from './useStore'
+import useTheme from './useTheme'
 
-export { useStore }
+export { useStore, useTheme }
