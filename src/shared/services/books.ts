@@ -17,8 +17,7 @@ export const validationIsbn = (isbn: string): boolean => {
 }
 
 export const findBook = async (isbn: number) => {
-  // const { data } = await api.get(`/v1/volumes?q=isbn:${isbn}`)
-  const { data } = await api.get(`/books/${isbn}`)
+  const { data } = await api.get(`/v1/volumes?q=isbn:${isbn}`)
   const book: BookI = data
   return book
 }

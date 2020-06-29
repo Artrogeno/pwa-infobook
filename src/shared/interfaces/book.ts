@@ -30,13 +30,13 @@ interface VolumeInfoI {
   pageCount: number
   printType: string
   categories?: string[]
-  averageRating: number
-  ratingsCount: number
+  averageRating?: number
+  ratingsCount?: number
   maturityRating: string
   allowAnonLogging: boolean
   contentVersion: string
   panelizationSummary?: PanelizationSummaryI
-  imageLinks: ImageLinkI
+  imageLinks?: ImageLinkI
   language: string
   previewLink: string
   infoLink: string
