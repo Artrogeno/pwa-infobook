@@ -25,7 +25,8 @@ export const Card = styled.div`
   padding: 1rem;
   width: 22rem;
   height: 7rem;
-  background-color: white;
+  background-color: ${props => props.theme.colors.bgDefault};
+  color: ${props => props.theme.colors.fgDefault};
   border-radius: 0.4rem;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   transition: opacity 0.3 ease-in-out;
