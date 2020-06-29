@@ -42,7 +42,9 @@ export default createGlobalStyle`
   body {
     font-size: 1.2rem;
     font-family: var(--font-roboto);
-    transition: background .6s ease-in-out;
+    transition: background .6s ease-in-out, color .6s ease-in-out;
+    background: ${props => props.theme.colors.bgBody};
+    color: ${props => props.theme.colors.fgBody};
     &.no-scroll {
       overflow: hidden;
     }
