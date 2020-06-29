@@ -25,7 +25,7 @@ InfoBook is an app focused on searching for book information from the barcode.
 
 ### How start this project:
 
-- [Download the latest release.](https://github.com/Artrogeno/)
+- [Download the latest release.](https://github.com/Artrogeno/pwa-infobook/archive/master.zip)
 - Clone the repo: `git clone https://github.com/Artrogeno/pwa-infobook.git`
 - Run `npm install` or `yarn install` to install Node.js dependencies.
 
