@@ -11,7 +11,7 @@ const Routes: React.FC = () => {
         <Route exact path="/">
           <Main />
         </Route>
-        <Route path="/book/:id">
+        <Route path="/book/:isbn">
           <Book />
         </Route>
       </Switch>
